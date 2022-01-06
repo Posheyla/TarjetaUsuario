@@ -1,0 +1,48 @@
+.contenedor{
+    background-color: white;
+}
+.profile{
+    height:100px;
+}
+.ubi{
+    height:30px;
+    width:20px;
+}
+.gear{
+    height:20px;
+    width:20px;
+}
+.franja{
+    height: 150px;
+    background-color: rgb(9, 136, 136);
+}
+.contenido{
+    height:100px;
+    margin:50px;
+    position: absolute; 
+    top: 50px;
+}
+.ubicacion{
+    display:flex;
+    align-items: center;
+    margin: 50px;
+    position: absolute; 
+    top: 200px;
+}
+.descripcion{
+    margin: 50px;
+    position: absolute; 
+    top: 250px;
+}
+.partebaja{
+    margin: 50px;
+    display:flex;
+    align-items: center;
+    color:rgb(67, 67, 216);
+    text-decoration: underline;
+    position: absolute; 
+    top: 320px;
+} 
+h2, h3{
+    margin-left:10px;
+}
